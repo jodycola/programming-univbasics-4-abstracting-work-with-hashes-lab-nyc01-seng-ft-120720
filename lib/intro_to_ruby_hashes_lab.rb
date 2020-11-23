@@ -1,7 +1,5 @@
 def my_hash_creator(key, value)
-  hash = {}
-  my_key = key
-  hash[my_key] = value
+  {key value}
 end
 
 def read_from_hash(hash, key)
